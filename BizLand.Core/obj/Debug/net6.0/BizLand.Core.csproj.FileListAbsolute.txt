@@ -1,0 +1,14 @@
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\bin\Debug\net6.0\BizLand.Core.deps.json
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\bin\Debug\net6.0\BizLand.Core.runtimeconfig.json
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\bin\Debug\net6.0\BizLand.Core.dll
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\bin\Debug\net6.0\BizLand.Core.pdb
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\BizLand.Core.csproj.AssemblyReference.cache
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\BizLand.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\BizLand.Core.AssemblyInfoInputs.cache
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\BizLand.Core.AssemblyInfo.cs
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\BizLand.Core.csproj.CoreCompileInputs.cache
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\BizLand.Core.dll
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\refint\BizLand.Core.dll
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\BizLand.Core.pdb
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\BizLand.Core.genruntimeconfig.cache
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Core\obj\Debug\net6.0\ref\BizLand.Core.dll

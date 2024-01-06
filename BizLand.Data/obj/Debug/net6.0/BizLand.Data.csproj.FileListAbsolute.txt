@@ -1,0 +1,15 @@
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\bin\Debug\net6.0\BizLand.Data.deps.json
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\bin\Debug\net6.0\BizLand.Data.dll
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\bin\Debug\net6.0\BizLand.Data.pdb
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\BizLand.Data.csproj.AssemblyReference.cache
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\BizLand.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\BizLand.Data.AssemblyInfoInputs.cache
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\BizLand.Data.AssemblyInfo.cs
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\BizLand.Data.csproj.CoreCompileInputs.cache
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\BizLand.Data.dll
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\refint\BizLand.Data.dll
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\BizLand.Data.pdb
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\ref\BizLand.Data.dll
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\bin\Debug\net6.0\BizLand.Core.dll
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\bin\Debug\net6.0\BizLand.Core.pdb
+C:\Users\hesen\OneDrive\İş masası\bizland\BizLand.Data\obj\Debug\net6.0\BizLand.Data.csproj.CopyComplete

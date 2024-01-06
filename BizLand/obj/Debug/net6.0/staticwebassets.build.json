@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "u9Cs5SjGZb1wTP7cYJFvlM+ukBjsDikEgljOrBuZt2k=",
+  "Source": "BizLand",
+  "BasePath": "_content/BizLand",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BizLand\\wwwroot",
+      "Source": "BizLand",
+      "ContentRoot": "C:\\Users\\hesen\\OneDrive\\İş masası\\bizland\\BizLand\\wwwroot\\",
+      "BasePath": "_content/BizLand",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
